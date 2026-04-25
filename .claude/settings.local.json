@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(hugo new *)",
-      "Bash(git init *)"
+      "Bash(git init *)",
+      "Bash(hugo version *)",
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
