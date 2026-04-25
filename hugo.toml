@@ -11,6 +11,7 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   hasCJKLanguage = true
+  DateFormat = "2006-01-02 15:04"
 
 [menu]
   [[menu.main]]
@@ -21,10 +22,6 @@ theme = "PaperMod"
     name = "About"
     url = "/about/"
     weight = 2
-
-[params.DateFormat]
-  list   = "2006-01-02"
-  single = "2006-01-02 15:04"    # 文章页显示到分钟
 
 [markup]
   [markup.highlight]
