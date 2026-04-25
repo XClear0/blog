@@ -1,10 +1,10 @@
 baseURL = "https://yaviewpoint.icu/"
 languageCode = "zh-cn"
-title = "My Blog"
+title = "Yet Another Viewpoint"
 theme = "PaperMod"
 
 [params]
-  author = "Your Name"
+  author = "XClear"
   description = "My personal blog"
   ShowReadingTime = true
   ShowPostNavLinks = true
