@@ -8,7 +8,13 @@
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
       "Bash(git push *)",
-      "Bash(gh pr create --title 'feat: add ICP & public security record to footer' --body ' *)"
+      "Bash(gh pr create --title 'feat: add ICP & public security record to footer' --body ' *)",
+      "Bash(winget install *)",
+      "PowerShell(Get-Command gh)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" auth status)",
+      "Bash('/c/Program Files/GitHub CLI/gh.exe' pr create --title 'feat: add ICP & public security record to footer' --body ' *)",
+      "Bash(git fetch *)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" pr list --state open --head feat/footer-beian)"
     ]
   }
 }
