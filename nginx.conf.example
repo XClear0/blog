@@ -1,0 +1,32 @@
+server {
+    listen 80;
+    server_name yourdomain.com www.yourdomain.com;
+
+    # 配置 HTTPS 后此块会被 certbot 自动替换
+    return 301 https://$host$request_uri;
+}
+
+server {
+    listen 443 ssl;
+    server_name yourdomain.com www.yourdomain.com;
+
+    ssl_certificate     /etc/letsencrypt/live/yourdomain.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/yourdomain.com/privkey.pem;
+
+    root /var/www/blog;
+    index index.html;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+
+    # 静态资源缓存
+    location ~* \.(css|js|png|jpg|jpeg|gif|ico|svg|woff2)$ {
+        expires 30d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # gzip 压缩
+    gzip on;
+    gzip_types text/plain text/css application/javascript application/json image/svg+xml;
+}

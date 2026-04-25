@@ -1,0 +1,27 @@
+baseURL = "https://yourdomain.com/"
+languageCode = "zh-cn"
+title = "My Blog"
+theme = "PaperMod"
+
+[params]
+  author = "Your Name"
+  description = "My personal blog"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[markup]
+  [markup.highlight]
+    style = "github"
+    lineNos = true

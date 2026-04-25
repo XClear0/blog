@@ -1,0 +1,36 @@
+.footer {
+    flex-direction: column;
+    gap: 4px;
+}
+
+.footer-top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+}
+
+.beian {
+    font-size: 0.8rem;
+    opacity: 0.75;
+    text-align: center;
+}
+
+.beian a {
+    color: inherit;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+}
+
+.beian a:hover {
+    text-decoration: underline;
+}
+
+/* 覆盖 PaperMod 的 img { display: block } */
+.beian img {
+    display: inline !important;
+    height: 14px;
+    vertical-align: middle;
+}
