@@ -18,10 +18,6 @@
       "Bash('/c/Program Files/GitHub CLI/gh.exe' pr create --title 'chore: update Claude Code permissions in settings.local.json' --body ' *)",
       "Bash(git pull *)",
       "Bash(git stash *)",
-      "Skill(claude-api)",
-      "Skill(claude-api:*)",
-      "Bash(git update-index *)",
-      "Bash(chmod +x .git/hooks/pre-commit)"
     ]
   }
 }
