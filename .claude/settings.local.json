@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "Bash(hugo new *)",
-      "Bash(git init *)"
+      "Bash(git init *)",
+      "Bash(hugo version *)",
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(gh pr create --title 'feat: add ICP & public security record to footer' --body ' *)"
     ]
   }
 }
