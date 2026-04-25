@@ -1,6 +1,6 @@
 server {
     listen 80;
-    server_name yourdomain.com www.yourdomain.com;
+    server_name yaviewpoint.icu www.yaviewpoint.icu;
 
     # 配置 HTTPS 后此块会被 certbot 自动替换
     return 301 https://$host$request_uri;
@@ -8,10 +8,10 @@ server {
 
 server {
     listen 443 ssl;
-    server_name yourdomain.com www.yourdomain.com;
+    server_name yaviewpoint.icu www.yaviewpoint.icu;
 
-    ssl_certificate     /etc/letsencrypt/live/yourdomain.com/fullchain.pem;
-    ssl_certificate_key /etc/letsencrypt/live/yourdomain.com/privkey.pem;
+    ssl_certificate     /etc/letsencrypt/live/yaviewpoint.icu/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/yaviewpoint.icu/privkey.pem;
 
     root /var/www/blog;
     index index.html;
