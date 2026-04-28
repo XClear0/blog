@@ -14,7 +14,7 @@ categories: []
 ## The week when AI changed everything
 *By Auzinea Bacon    UPDATED FEB 28, 2026*
 
-We’ve been talking about {{< underline >}}AI changing the world for a long time{{< /underline >}}. But this week felt different — as if it were right in the middle of something big.The stock market tumbled[^1] — three separate days — because of investors’ both bearish and bullish[^2] fears about AI, including Nvidia’s somewhat tepid[^3] outlook and a viral[^4] blog post that imagined a hypothetical scenario[^5] in which white-collar work evaporated[^6].
+We’ve been talking about <u>AI changing the world for a long time</u>. But this week felt different — as if it were right in the middle of something big.The stock market tumbled[^1] — three separate days — because of investors’ both bearish and bullish[^2] fears about AI, including Nvidia’s somewhat tepid[^3] outlook and a viral[^4] blog post that imagined a hypothetical scenario[^5] in which white-collar work evaporated[^6].
 
 Anthropic unveiled[^7] new tools that could upend[^8] the way people do work. Then Anthropic entered into an epic[^9] battle over red lines with the Pentagon that risked making the AI company a pariah[^10]. At the same time, the company loosened its safety policy as the AI market continues to charge ahead[^11].
 
@@ -58,7 +58,7 @@ Trump amplified[^33] that threat on Friday, posting on Truth Social that federal
 
 But Anthropic has rejected the Pentagon’s offer.
 
-{{< underline >}}“Threats do not change our position: we cannot in good conscience accede to their request,” Amodei said in a blog post.{{< /underline >}}
+<u>“Threats do not change our position: we cannot in good conscience accede to their request,” Amodei said in a blog post.</u>
 
 Meanwhile, on Wednesday, Anthropic had loosened its core safety policy to better adapt to a fast-moving market in which competitors may not abide by the same safety standards.
 
@@ -66,7 +66,7 @@ Meanwhile, on Wednesday, Anthropic had loosened its core safety policy to better
 
 Economists and investors have long been worried for years that AI adoption could result in mass layoffs[^35].
 
-{{< underline >}}Those fears seemed to come to fruition on Thursday when Block — the company behind Square, Cash App and Afterpay — said it would cut its staff by 40%.{{< /underline >}} Co-founder Jack Dorsey plainly cited “intelligence tools” as the reason in a letter to shareholders.
+<u>Those fears seemed to come to fruition on Thursday when Block — the company behind Square, Cash App and Afterpay — said it would cut its staff by 40%.</u> Co-founder Jack Dorsey plainly cited “intelligence tools” as the reason in a letter to shareholders.
 
 The company would lay off more than 4,000 people, reducing its workforce to under 6,000. And Dorsey said in his note that “most companies are late” and he thinks “the majority of companies will reach the same conclusion.”
 
@@ -81,7 +81,7 @@ That sparked a whole host of[^36] new fears about a jobs apocalypse[^37] — one
 
 *Analysis by	![Lisa_Lisa Eadicicco](Lisa_Eadicicco.png)Lisa Eadicicco    ![David_Goldman](David_Goldman.png)David Goldman*
 
-Anthropic has reached a familiar crossroads for a growing tech company: {{< underline >}}how to scale[^40] without compromising the principles that set it apart.{{< /underline >}}
+Anthropic has reached a familiar crossroads for a growing tech company: <u>how to scale[^40] without compromising the principles that set it apart.</u>
 
 The AI company has made safety its guiding principle. It advocated for AI regulation and called for worker protections as AI replaces some human tasks. Anthropic has worked hard to send a specific message to customers: We’re the good guys.
 
@@ -91,7 +91,7 @@ This week, the Pentagon gave Anthropic an ultimatum[^42]: Drop your AI ethical[^
 
 It’s unclear how this week will play out[^46] for Anthropic’s business and its reputation, but its decisions will be consequential[^47].
 
-We know that, because Anthropic’s dilemma[^48] is a familiar one in the tech industry. {{< underline >}}Many companies tout[^49] their values and morality[^50], only to be confronted with tough decisions that force them to choose between growth and maintaining those ideals.{{< /underline >}}
+We know that, because Anthropic’s dilemma[^48] is a familiar one in the tech industry. <u>Many companies tout[^49] their values and morality[^50], only to be confronted with tough decisions that force them to choose between growth and maintaining those ideals.</u>
 
 Anthropic may want to take note.
 
@@ -101,9 +101,9 @@ Just over two years ago, Anthropic’s biggest rival grappled with dissent[^51] 
 
 In one of the most bizarre[^52] boardroom dramas in corporate history, Anthropic’s chief rival OpenAI abruptly fired its founder and CEO Sam Altman on a November Friday in 2023, only to rehire him the following Tuesday.
 
-{{< underline >}}The saga involved a unique corporate structure that placed the fast-growing, for-profit company behind ChatGPT under the auspices[^53] of a nonprofit board.{{< /underline >}} Four years earlier, the company had written into its charter[^54] that OpenAI remained “concerned” about AI’s potential to “cause rapid change” for humanity. The company’s overseers[^55] feared that Altman was moving so fast that he risked undermining the safety the company pledged[^56] to provide.
+<u>The saga involved a unique corporate structure that placed the fast-growing, for-profit company behind ChatGPT under the auspices[^53] of a nonprofit board.</u> Four years earlier, the company had written into its charter[^54] that OpenAI remained “concerned” about AI’s potential to “cause rapid change” for humanity. The company’s overseers[^55] feared that Altman was moving so fast that he risked undermining the safety the company pledged[^56] to provide.
 
-But firing Altman led to threats of a mass exodus[^57] of employees – an untenable[^58] situation that could have led to the destruction of the company. So the board just days later rehired Altman. {{< underline >}}The board dissolved soon after, and Altman changed the corporate structure last year to free itself of its nonprofit overseer.{{< /underline >}}
+But firing Altman led to threats of a mass exodus[^57] of employees – an untenable[^58] situation that could have led to the destruction of the company. So the board just days later rehired Altman. <u>The board dissolved soon after, and Altman changed the corporate structure last year to free itself of its nonprofit overseer.</u>
 
 OpenAI has since struggled to balance speed and safety, facing several lawsuits that claim its products convinced young people to harm themselves. OpenAI denies those claims.
 
@@ -119,7 +119,7 @@ It’s unclear what will come of Anthropic’s change, because AI’s existentia
 
 He said he’d be skeptical[^63] of any expert who called this an important moment in AI safety. But it could be an important moment for the company.
 
-{{< underline >}}“Pulling back from a particular safety promise here by Anthropic, to me, is more about Anthropic and less about the future of AI,” he said.{{< /underline>}}
+<u>“Pulling back from a particular safety promise here by Anthropic, to me, is more about Anthropic and less about the future of AI,” he said.</u>
 
 This story has been updated to include more details about Anthropic’s safety policy changes.
 

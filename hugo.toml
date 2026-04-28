@@ -27,3 +27,5 @@ theme = "PaperMod"
   [markup.highlight]
     style = "github"
     lineNos = true
+  [markup.goldmark.renderer]
+    unsafe = true
