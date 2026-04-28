@@ -123,5 +123,16 @@ He said he’d be skeptical of any expert who called this an important moment in
 
 This story has been updated to include more details about Anthropic’s safety policy changes.
 
-[^1]: **tumble** : 跌倒
-[^2]: hhh
+[^1]: **tumbled** /ˈtʌmbld/ *动词* (tumble的过去式及过去分词) 1. (价格、数字等)暴跌，骤降 2. 跌倒，摔落，滚落 3. 倒塌，坍塌 4. 倾泻，滚流；乱哄哄地涌出 5. (政府、政权等)倒台
+[^2]: **bearish** /ˈberɪʃ/ *adj.* (无比较级) 1. (股市)行情看跌的 2. (态度)悲观的，消极的  
+**bullish** /ˈbʊlɪʃ/ *adj.* (无比较级) 1. (股市)行情看涨的 2. (态度)乐观的，积极的
+[^3]: **tepid** /ˈtepɪd/ *adj.* (比较级 more tepid，最高级 most tepid) 1. (液体)微温的，温热的 2. (反应、热情等)不冷不热的，不热烈的，冷淡的
+[^4]: **viral** /ˈvaɪrəl/ *adj.* (无比较级) 1. (医学)病毒的，病毒性的 2. (网络、信息)病毒式传播的，迅速流行的
+[^5]: **hypothetical scenario** /ˌhaɪpəˈθetɪkəl səˈnærioʊ/ *n. phr.* 假设性情景，假想情况
+[^6]: **evaporated** /ɪˈvæpəreɪtɪd/ *动词* (evaporate的过去式及过去分词) 1. (液体)蒸发，挥发 2. (情感、感觉、活动、工作等)消失，消散，逐渐减少
+[^7]: **unveiled** /ʌnˈveɪld/ *动词* (unveil的过去式及过去分词) 1. (首次)展示，推出，公布 2. 为…揭幕，揭开…上的覆盖物 3. 揭露，披露 
+[^8]: **upend** /ʌpˈend/ *v.* (第三人称单数 upends，现在分词 upending，过去式 upended，过去分词 upended) 1. 颠倒，倒立 2. 颠覆，彻底改变 3. 推翻，打乱
+[^9]: **epic** /ˈepɪk/ *adj.* (无固定比较级，可用 more epic, most epic) 1. 史诗般的，宏大的，壮丽的 2. 漫长而艰难的，艰苦卓绝的 3. (场面、战斗等)气势恢宏的，极具规模的 *n.* 1. 史诗，叙事诗 2. 史诗般的作品(电影、小说等)
+[^10]: **pariah** /pəˈraɪə/ *n.* 1. 被社会遗弃者，流浪者 2. (团体、组织中被)排斥的人(或事物)，不受欢迎的人(或事物)
+[^11]: **charge ahead** /tʃɑːrdʒ əˈhed/ *v. phr.* (常为现在分词或过去式) 1. 猛冲向前，向前冲刺 2. 继续全速前进，不顾阻碍地推进 3. (商业、技术等)快速发展，高歌猛进
+[^12]: 
