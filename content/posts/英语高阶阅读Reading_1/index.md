@@ -79,7 +79,7 @@ That sparked a whole host of[^36] new fears about a jobs apocalypse[^37] — one
 
 ## What the Anthropic AI safety saga[^39] is really all about   
 
-*Analysis by	![Lisa_Lisa Eadicicco](Lisa_Eadicicco.png)Lisa Eadicicco    ![David_Goldman](David_Goldman.png)David Goldman*
+*Analysis by    ![Lisa_Eadicicco](Lisa_Eadicicco.png) Lisa Eadicicco    ![David_Goldman](David_Goldman.png) David Goldman*
 
 Anthropic has reached a familiar crossroads for a growing tech company: <u>how to scale[^40] without compromising the principles that set it apart.</u>
 
