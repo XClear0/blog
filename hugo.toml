@@ -1,5 +1,5 @@
 baseURL = "https://yaviewpoint.icu/"
-languageCode = "zh-cn"
+locale = "zh-cn"
 title = "Yet Another Viewpoint"
 theme = "PaperMod"
 
@@ -27,5 +27,12 @@ theme = "PaperMod"
   [markup.highlight]
     style = "github"
     lineNos = true
-  [markup.goldmark.renderer]
-    unsafe = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [["\\[", "\\]"], ["$$", "$$"]]
+          inline = [["\\(", "\\)"]]
