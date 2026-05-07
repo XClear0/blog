@@ -1,5 +1,5 @@
 baseURL = "https://yaviewpoint.icu/"
-locale = "zh-cn"
+locale = "zh-CN"
 title = "Yet Another Viewpoint"
 theme = "PaperMod"
 
