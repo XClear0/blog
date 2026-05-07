@@ -11,11 +11,18 @@ categories: []
 
 *By  Issy Ronald  Updated Mar 2, 20*
 
-{{< figure src="porcelain.png" alt="porcelain" caption="The blue-and-white porcelain is intricately decorated.<br>Michael Flecker/Science Direct" class="img-center" >}}
+
+
+<figure class="img-center">
+  <img src="porcelain.png" alt="描述">
+  <figcaption>The blue-and-white porcelain is intricately decorated.<br>Michael Flecker/Science Direct</figcaption>
+</figure>
+
 
 In the waters off Singapore, a recently uncovered a shipwreck with a huge cargo of blue-and-white porcelain is shedding light on the storied Chinese craft produced during the turbulent era of the Mongol Empire.
 
 The roughly 650-year-old ship, which was likely sailing from China to Temasek, a historic settlement on the site of modern-day Singapore, contained a record haul of Yuan Dynasty porcelain, according to the paper that detailed its discovery.
+
 It took Michael Flecker, the marine archaeologist who led the investigation, and his team four years to sift through the site of the 14th century wreck and recover the remnants of the ship’s cargo.
 The researchers found roughly 3.5 metric tons of ceramic shards, about 136 kilograms (about 300 pounds) of which was Yuan porcelain – that distinctive blue-and-white, intricately patterned ceramic, as well as several intact or nearly intact porcelain pieces.
 Although the wreck site was shallow, the researchers battled “strong currents and associated shocking visibility,” meaning they could only dive about once every four weeks, Flecker told CNN.
