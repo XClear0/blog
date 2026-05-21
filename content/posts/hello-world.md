@@ -10,4 +10,5 @@ categories: ["blog"]
 
 ## 开始写作
 
-用 `hugo new posts/my-post.md` 创建新文章。
+用`hugo new posts/my-post.md` 创建新文章  
+`hugo server -D`开启本地浏览器测试
