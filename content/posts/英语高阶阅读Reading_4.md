@@ -9,7 +9,7 @@ categories: []
 
 # Should College Get Harder?
 
-*A.I. is coming for knowledge work, and yet college seems to be getting easier. Does something need to change?*
+A.I. is coming for knowledge work, and yet college seems to be getting easier. Does something need to change?
 
 *By Joshua Rothman* 
 *Source: [Should College Get Harder? | The New Yorker](https://www.newyorker.com/culture/open-questions/should-college-get-harder)*

@@ -13,6 +13,7 @@ categories: []
 
 ## The week when AI changed everything
 *By Auzinea Bacon    UPDATED FEB 28, 2026*
+*Source:[AI changed everything this week. Here’s why | CNN Business](https://edition.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)*
 
 We’ve been talking about <u>AI changing the world for a long time</u>. But this week felt different — as if it were right in the middle of something big.The stock market tumbled[^1] — three separate days — because of investors’ both bearish and bullish[^2] fears about AI, including Nvidia’s somewhat tepid[^3] outlook and a viral[^4] blog post that imagined a hypothetical scenario[^5] in which white-collar work evaporated[^6].
 
@@ -80,6 +81,7 @@ That sparked a whole host of[^36] new fears about a jobs apocalypse[^37] — one
 ## What the Anthropic AI safety saga[^39] is really all about   
 
 *Analysis by    ![Lisa_Eadicicco](Lisa_Eadicicco.png) Lisa Eadicicco    ![David_Goldman](David_Goldman.png) David Goldman*
+*Source:[What the Anthropic AI safety saga is really all about | CNN Business](https://edition.cnn.com/2026/02/26/tech/anthropic-ai-safety)*
 
 Anthropic has reached a familiar crossroads for a growing tech company: <u>how to scale[^40] without compromising the principles that set it apart.</u>
 
