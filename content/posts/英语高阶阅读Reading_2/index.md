@@ -9,15 +9,13 @@ categories: []
 
 # 14th century shipwreck reveals huge cargo of rare Yuan Dynasty blue-and-white porcelain
 
-*By  Issy Ronald  Updated Mar 2, 2026*
+*By  Issy Ronald  Updated Mar 2, 2026*  
 *Source:[Record haul of rare Yuan Dynasty blue-and-white porcelain discovered at shipwreck off Singapore | CNN](https://edition.cnn.com/2026/02/28/science/yuan-dynasty-porcelain-singapore-shipwreck-intl-scli)*
-
 
 <figure class="img-center">
   <img src="porcelain.png" alt="描述">
   <figcaption>The blue-and-white porcelain is intricately decorated.<br>Michael Flecker/Science Direct</figcaption>
 </figure>
-
 
 In the waters off Singapore, a recently uncovered a[^1] shipwreck with a huge cargo of blue-and-white porcelain is shedding light on[^2] the storied Chinese craft produced during the turbulent[^3] era of the Mongol Empire.
 
@@ -65,7 +63,7 @@ This particular shipment likely set sail from Quanzhou, a port on China's easter
 
 While historians already knew Temasek was an important duty-free port during the 14th century, this shipwreck "hints at the extent of local consumption" and "demonstrates the wealth" of the settlement, Flecker said.
 
-The study was published in June 2025 in the Journal of International Ceramic Studies.
+The study was published in June 2025 in the Journal of International Ceramic Studies.  
 (829 words)
 
 
