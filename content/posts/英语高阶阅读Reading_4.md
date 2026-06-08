@@ -11,7 +11,7 @@ categories: []
 
 A.I. is coming for knowledge work, and yet college seems to be getting easier. Does something need to change?
 
-*By Joshua Rothman* 
+*By Joshua Rothman*  
 *Source: [Should College Get Harder? | The New Yorker](https://www.newyorker.com/culture/open-questions/should-college-get-harder)*
 
 Around twenty years ago, when I was a graduate student in English, I taught a class in a special observation room at my university's teaching center. My students and I sat around a long oval[^1] table while cameras recorded us. I can't remember which novel we discussed, but I do know what I learned when I watched the tape afterward, with a teaching coach. She pointed out that, when I was calling on students, I often looked to my right, missing the raised hands on my left. I didn't let silences go on long enough, instead speaking just when a student had worked up the courage[^2] to talk. On the plus side[^3], she noticed I'd been using a technique she liked, which I'd borrowed from a professor of mine: it was like cold-calling[^4], except that[^5], after you'd surprised a student with a challenging question, you told them that you'd circle back in a few minutes, to give them time to consider what they'd say. This, she told me, was "warm-calling[^6].”

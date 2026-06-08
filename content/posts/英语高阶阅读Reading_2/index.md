@@ -10,7 +10,7 @@ categories: []
 # 14th century shipwreck reveals huge cargo of rare Yuan Dynasty blue-and-white porcelain
 
 *By  Issy Ronald  Updated Mar 2, 2026*  
-*Source:[Record haul of rare Yuan Dynasty blue-and-white porcelain discovered at shipwreck off Singapore | CNN](https://edition.cnn.com/2026/02/28/science/yuan-dynasty-porcelain-singapore-shipwreck-intl-scli)*
+*Source: [Record haul of rare Yuan Dynasty blue-and-white porcelain discovered at shipwreck off Singapore | CNN](https://edition.cnn.com/2026/02/28/science/yuan-dynasty-porcelain-singapore-shipwreck-intl-scli)*
 
 <figure class="img-center">
   <img src="porcelain.png" alt="描述">
